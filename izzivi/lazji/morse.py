@@ -16,10 +16,18 @@ CODE = {'A': '.-',     'B': '-...',   'C': '-.-.',
 
 
 
-def pretvori(niz):
-    niz = str.upper(niz)
+def text_v_morse(text):
+    text = text.upper()
     morse = ""
-    for znak in niz:
-        morse +=CODE[znak] + " "
+
+    for znak in text:
+        morse +=CODE[znak] + "   "
+
     morse = morse[:-1]
     return morse
+
+def morse_v_text(morse):
+    pass
+
+
+print(text_v_morse('tralala'))

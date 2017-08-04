@@ -5,9 +5,9 @@
 # Vsak od argumentov predstavlja dolzino posamezne stranice trikotnika.
 # Funkcija naj vrne obseg trikotnika
 
-# Define a function called triangle_???, which accepts 3 arguments.
+# Define a function called triangle_perimeter, which accepts 3 arguments.
 # Each argument is the length of the given side.
-# The function should return triangles ???
+# The function should return triangles perimeter
 
 # ============================= NALOGA 2 ============================= #
 

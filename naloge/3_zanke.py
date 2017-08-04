@@ -30,3 +30,6 @@
 # zato, ker morajo blagajniki prešteti izdelke preden lahko začnejo vnašati
 # njihove cene. Popravi program tako, da ne vpraša po številu izdelkov,
 # temveč sprašuje po cenah toliko časa, dokler mu blagajnik ne vnese ničle.
+
+# The third shop has decied to speed the things up. They require the program to
+# continuously ask for prices, until 0 is entered.
